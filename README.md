@@ -10,4 +10,5 @@ to also installing future Py modules in the future easier.
 
 You got comments in every step of code, so u don´t get lost.
 
-
+DATASET obtained from https://www.kaggle.com/datasets/binovi/wholesale-customers-data-set/code?resource=download 
+Thank u Ravi Shekhar (Owner)
